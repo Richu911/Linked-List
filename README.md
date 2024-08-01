@@ -50,3 +50,16 @@ int main() {
 * `reverseList()`: reverses the list
 * `KthNodeFromEnd()`: prints and returns Kth node from end
 
+## Building and Testing
+To build and test the LinkedList class, use the following commands:
+```
+g++ -o richu_LinkedList.exe richu_LinkedList.h
+richu_LinkedList.h
+```
+This will compile the LinkedList class and run a simple test program.
+
+## License
+This code is released under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+This Linked list is a modification of the linked list implementation on Paul Programming youtube channel.
